@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Tombstone - Interpreter</name>
+  <description>Interpreter</description>
+  <icon>interpreter.png</icon>
+  <default-width>4cm</default-width>
+  <default-height>8cm</default-height>
+  <connections>
+    <point x="4" y="0"/>
+    <point x="4" y="16"/>
+    <point x="4" y="14"/>
+    <point x="4" y="8" main="yes"/>
+  </connections>
+  <textbox x1="1" y1="1" x2="7" y2="3" resize="no"/>
+  <svg:svg width="8" height="16">
+    <svg:path 
+       d="M 0,0 L 8,0 8,16 0,16 z"
+       style="fill: default"/>
+  </svg:svg>
+</shape>

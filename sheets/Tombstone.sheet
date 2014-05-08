@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Tombstone</name>
+  <description>Build Tombstone diagrams for compiler bootstrapping.</description>
+  <contents>
+    <object name="Tombstone - Machine">
+      <description>Machine</description>
+    </object>
+    <object name="Tombstone - Compiler">
+      <description>Compiler</description>
+    </object>
+    <object name="Tombstone - Interpreter">
+      <description>Interpreter</description>
+    </object>
+    <object name="Tombstone - Program">
+      <description>Program</description>
+    </object>
+  </contents>
+</sheet>
