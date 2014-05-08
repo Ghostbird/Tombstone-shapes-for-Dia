@@ -45,4 +45,4 @@ Compiler right-hand | Right
 The default vertical alignment can fit up to two lines of default-sized text. Beyond that, you may have to change the vertical alignment and/or the text offset.
 
 ###Non-default shape sizes
-You can freely resize the shapes, but to maintain easy grid snapping it is advisable to choose widths that are divisible by four and heights that are divisible by two.
+You can freely resize the shapes, but to maintain easy grid snapping it is advisable to choose widths that are divisible by four and heights that are divisible by two relative to the grid.
