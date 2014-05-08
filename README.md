@@ -36,7 +36,7 @@ To add a text field, click the text-cursor icon in the dia tool-bar or press `<F
 ####Suggested alignment
 
 Shape               | Alignment
-----------------------------
+--------------------|----------
 Interpreter         | Centre
 Program             | Centre
 Compiler left-hand  | Left
