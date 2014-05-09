@@ -1,4 +1,6 @@
-_This manual and the referenced Dia shapes, their icons (.png) and the .sheet file are released by the author into the public domain_
+_This manual and the referenced Dia shapes, their icons (.png) and the .sheet file are released by the author into the public domain by means of the CC0 1.0 License_
+![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work. This work is published from: Netherlands.
 
 #Tombstone Diagrams for Dia
 
